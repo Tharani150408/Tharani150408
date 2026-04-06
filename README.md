@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Tharani 👋<br>A passionate Computer Science student with a strong interest in Software Development and Data Science.<br><br>💻 Skilled in: C, Python, Java (basics)<br>🌐 Exploring: Full Stack Development (Node.js / Flask)<br>📊 Interested in: Data Science & AI-based projects<br>🔧 Currently building: Real-world projects to improve problem-solving skills<br>🎯 Goal: To become a skilled developer and contribute to impactful tech solutions
+Hi, I'm Tharani 👋<br>A passionate Computer Science student with a strong interest in Software Development and Data Science.<br><br>💻 Skilled in: C, Python, Java (basics)<br>🌐 Exploring: Full Stack Development <br>📊 Interested in: Data Science & AI-based projects<br>🔧 Currently building: Real-world projects to improve problem-solving skills<br>🎯 Goal: To become a skilled developer and contribute to impactful tech solutions
 
 
 ## 🌐 Socials:
